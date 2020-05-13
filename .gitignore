@@ -1,7 +1,10 @@
-node_modules/
-coverage
 .vscode/
+node_modules/
+build/
+temp/
+.env
 ormconfig.json
+coverage
 
 tmp/*
 !tmp/.gitkeep
